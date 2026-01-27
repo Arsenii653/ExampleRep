@@ -32,3 +32,10 @@ h2, h3 {
 p {
     margin-bottom: 10px;
 }
+footer {
+    text-align: center;
+    padding: 10px 0;
+    border-top: 2px solid rgb(7, 105, 0);
+    margin-top: 20px;
+    color: rgb(255, 255, 255);
+    background-color: #fc0000;} 
