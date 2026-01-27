@@ -8,16 +8,34 @@
     margin: 0;
     box-sizing: inherit;
 }
+head {
+    background-color: #fc0000;
+    color: rgb(255, 255, 255);
+    padding: 20px 0;
+    text-align: center;
+    border-bottom: 2px solid rgb(7, 105, 0);
+}
 body {
     line-height: 1.6;
     background-color: #000000;
     color: rgb(7, 105, 0);
     padding: 20px;
 }
-h1, h2, h3 {
+h1{
     margin-bottom: 15px;
     color: rgb(7, 105, 0);
+}
+h2, h3 {
+    margin-bottom: 10px;
+    color: rgb(0, 234, 255);
 }
 p {
     margin-bottom: 10px;
 }
+footer {
+    text-align: center;
+    padding: 10px 0;
+    border-top: 2px solid rgb(7, 105, 0);
+    margin-top: 20px;
+    color: rgb(255, 255, 255);
+    background-color: #fc0000;} 
